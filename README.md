@@ -1,6 +1,6 @@
 # Todo App
 
-A simple and clean Todo application built with React and TypeScript.
+A simple and aesthetic Todo application built with React and TypeScript.
 
 ## Features
 
